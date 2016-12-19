@@ -1,5 +1,5 @@
 Sample file..
-TESTing GIT....!!! 
+TESTing GIT on github....!!! 
 and 
 completing
 assigments :)
